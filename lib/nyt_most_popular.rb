@@ -4,7 +4,7 @@
 
 require 'pry'
 
-require "nyt_most_popular/cli"
-require "nyt_most_popular/api"
-require "nyt_most_popular/articles"
-require "nyt_most_popular/version"
+require_relative "nyt_most_popular/cli"
+require_relative "nyt_most_popular/api"
+require_relative "nyt_most_popular/articles"
+require_relative "nyt_most_popular/version"
