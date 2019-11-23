@@ -1,6 +1,7 @@
 require "nyt_most_popular/version"
 
-module NytMostPopular
-  class Error < StandardError; end
-  # Your code goes here...
-end
+#where we need to require all gems
+
+#need to know:require vs require relative
+
+require 'pry'
