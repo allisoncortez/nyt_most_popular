@@ -1,6 +1,6 @@
 #handles user interaction
 
-NYTMostPopular::CLI
+NytMostPopular::CLI
 
 class CLI 
   def self.testing_method

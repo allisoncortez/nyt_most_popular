@@ -1,1 +1,1 @@
-NYTMostPopular::Articles
+NytMostPopular::Articles
