@@ -1,3 +1,7 @@
 #!/usr/bin/env ruby
 
+require_relative '../lib/nyt_most_popular'
+
 puts "hi"
+
+CLI.testing_method
